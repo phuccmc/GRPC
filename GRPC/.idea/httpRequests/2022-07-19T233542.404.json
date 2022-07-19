@@ -1,0 +1,6 @@
+{
+  "timestamp": "2022-07-19T16:35:42.773+00:00",
+  "status": 404,
+  "error": "Not Found",
+  "path": "/api/users/getAll"
+}

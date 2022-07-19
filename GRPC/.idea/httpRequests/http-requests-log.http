@@ -1,0 +1,142 @@
+GET http://localhost:8088/api/users/getAll
+
+<> 2022-07-19T234538.404.json
+
+###
+
+GET http://localhost:8088/api/users/getAll
+
+<> 2022-07-19T233756.404.json
+
+###
+
+GET http://localhost:8088/api/users/getAll
+
+<> 2022-07-19T233631.404.json
+
+###
+
+GET http://localhost:8088/api/users/getAll
+
+<> 2022-07-19T233542.404.json
+
+###
+
+POST http://localhost:8089/api/users/save
+
+<> 2022-07-19T233156.404.json
+
+###
+
+GET http://localhost:8089/users/getAll
+
+<> 2022-07-19T140344.404.json
+
+###
+
+GET http://localhost:8089/users
+
+<> 2022-07-19T140228.404.json
+
+###
+
+GET http://localhost:8089/users
+
+<> 2022-07-19T140223.404.json
+
+###
+
+GET http://localhost:8089/users/getAll
+
+<> 2022-07-19T140106.404.json
+
+###
+
+GET http://localhost:8089/users/getAll
+
+<> 2022-07-19T112039.404.json
+
+###
+
+GET http://localhost:8089/api/users
+
+<> 2022-07-19T111931.404.json
+
+###
+
+GET http://localhost:8089/users
+
+<> 2022-07-19T111700.404.json
+
+###
+
+GET http://localhost:8089/users
+
+<> 2022-07-19T111623.404.json
+
+###
+
+GET http://localhost:8089/users
+
+###
+
+GET http://localhost:8089/users
+
+<> 2022-07-19T020631.404.json
+
+###
+
+GET http://localhost:8089/users
+
+<> 2022-07-19T020429.404.json
+
+###
+
+GET http://localhost:8089/users
+
+<> 2022-07-19T020308.404.json
+
+###
+
+GET http://localhost:8089/users/getAll
+
+<> 2022-07-19T020042.404.json
+
+###
+
+GET http://localhost:8089/users/getAll
+
+<> 2022-07-19T020009.404.json
+
+###
+
+GET http://localhost:8089/users
+
+<> 2022-07-19T015941.404.json
+
+###
+
+POST http://localhost:8089/users
+
+<> 2022-07-19T015023.404.json
+
+###
+
+POST http://localhost:8089/users
+
+<> 2022-07-19T014313.404.json
+
+###
+
+POST http://localhost:8089/users
+
+<> 2022-07-19T014248.404.json
+
+###
+
+POST http://localhost:8089/users
+
+<> 2022-07-19T014142.404.json
+
+###
+
